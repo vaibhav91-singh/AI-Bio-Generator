@@ -1,5 +1,8 @@
 # Bio Generator - AI-Powered Bio Creator
-#This All Project is made by AI , AI Prompt
+## **This All Project is made by AI , AI Prompt 🤖 Development 💻 To Deployment Everything.**
+
+
+
 A stunning, modern web application for generating creative Instagram and Twitter bios using AI. Built with React + Node.js, designed for maximum conversions and SEO performance.
 
 ## Features
