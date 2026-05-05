@@ -10,7 +10,8 @@
         "react-dom": "^18.2.0",
         "react-helmet": "^6.1.0",
         "react-hot-toast": "^2.4.0",
-        "react-icons": "^4.7.1"
+        "react-icons": "^4.7.1",
+        "react-scripts": "5.0.1"
     },
     "scripts": {
         "start": "react-scripts start",
@@ -36,7 +37,6 @@
     },
     "devDependencies": {
         "@nicolo-ribaudo/eslint-scope-5-internals": "^5.1.1-v1",
-        "react-scripts": "5.0.1",
         "tsconfig-paths": "^4.2.0"
     }
 }
